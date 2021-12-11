@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://ivan2102:beograd011@cluster0.rgjrt.mongodb.net/social-network?retryWrites=true&w=majority",
+     "jwtSecret": "mysecretjsonwebtoken",
+     "githubClientId": "e0961633c32a376b273e",
+     "githubClientSecret": "ad26403f3ffb4fd0dec0eae0982d81591900d1a2"
+
+}
